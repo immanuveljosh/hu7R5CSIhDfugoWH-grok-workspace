@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pulse</string>
+    <string name="recording_notice">Recording call</string>
+    <string name="recording_channel">Call recording</string>
+    <string name="unsupported_recording">Call recording is not supported on this device.</string>
+    <string name="privacy_body">Pulse stores recordings only in this app’s private files. Nothing is uploaded. Auto-record stays off until you enable it. Two-way call audio is often blocked by Android and OEMs; Pulse reports that instead of bypassing security. You are responsible for consent under local law.</string>
+</resources>

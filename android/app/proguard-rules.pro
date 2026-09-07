@@ -1,0 +1,3 @@
+-keep class com.pulse.dialer.telecom.PulseInCallService { *; }
+-keep class com.pulse.dialer.recording.RecordingService { *; }
+-dontwarn org.jetbrains.annotations.**

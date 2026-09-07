@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Pulse",
+      "hasCanvas": false,
+      "bodyTextLen": 1016,
+      "bodyTextHash": "4bac22e7ff188723ad63fb7fc728bdbfe870c48440f68e994167bb86838ce82b",
+      "bodyTextPrefix": "ANDROID DIALER Pulse A lightweight Kotlin dialer with local call",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Pulse",
+      "hasCanvas": false,
+      "bodyTextLen": 497,
+      "bodyTextHash": "c773719ef3da656c67433324aca1dba3c66bf5fad13d9a7164bc0780c29540dc",
+      "bodyTextPrefix": "09:15 Keypad Enter number 1 2 ABC 3 DEF 4 GHI 5 JKL 6 MNO 7 PQRS",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
